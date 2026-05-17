@@ -120,17 +120,6 @@ Continuum restores only the selected components.
 
 ---
 
-# Screenshots
-
-Add screenshots here.
-
-```md
-![Dashboard](screenshots/dashboard.png)
-![Restore Modal](screenshots/restore-modal.png)
-```
-
----
-
 # Repository Structure
 
 ```text
