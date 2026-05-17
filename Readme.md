@@ -40,12 +40,9 @@ Built for focused workflows, fast context switching, and clean desktop productiv
 
 ## 1. Install Continuum
 
-Download:
+## Download
 
-```text
-releases/ContinuumSetup.exe
-```
-
+Download the latest Windows installer from the Releases section.
 Run the installer and complete setup.
 
 ---
